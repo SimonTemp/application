@@ -1,0 +1,13 @@
+.customer {
+  flex: 4;
+}
+.add {
+  flex: 4;
+}
+.filter {
+  align-content: center;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  color: rgb(212, 131, 9);
+}
