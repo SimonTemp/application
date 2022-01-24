@@ -17,7 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("v1/customer")
-@CrossOrigin(origins = "http://174.138.33.98:3000")
+@CrossOrigin(origins = "http://localhost:8080")
 public class CustomerContorller {
 
     private final CustomerService customerService;
