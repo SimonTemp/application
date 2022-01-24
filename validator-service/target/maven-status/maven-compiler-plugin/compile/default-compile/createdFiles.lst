@@ -5,6 +5,7 @@ com/validator/validatorservice/exception/EntityNotFoundException.class
 com/validator/validatorservice/model/domainvalue/Country.class
 com/validator/validatorservice/model/domainvalue/Status.class
 com/validator/validatorservice/controller/mapper/CustomerMapper.class
+com/validator/validatorservice/util/WebConfig$1.class
 com/validator/validatorservice/config/SQLDialect.class
 com/validator/validatorservice/service/CustomerService.class
 com/validator/validatorservice/util/WebConfig.class
