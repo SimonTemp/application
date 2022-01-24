@@ -12,5 +12,6 @@ com/validator/validatorservice/util/WebConfig.class
 com/validator/validatorservice/ValidatorServiceApplication.class
 com/validator/validatorservice/dto/CustomerDTO.class
 com/validator/validatorservice/controller/CustomerContorller.class
+com/validator/validatorservice/util/CorsFilter.class
 com/validator/validatorservice/dto/CustomerDTO$CustomerDTOBuilder.class
 com/validator/validatorservice/service/customer/CustomerServiceImpl.class
