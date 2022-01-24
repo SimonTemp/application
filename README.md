@@ -13,6 +13,7 @@ cd validator-service/
 cd validator-ui-react/
 <br/><br/>
 ./start.sh
+<br/><br/>
 http://localhost:3000/
 
 <br/><br/><br/>
